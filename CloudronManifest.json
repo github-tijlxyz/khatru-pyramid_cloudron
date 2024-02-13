@@ -1,0 +1,19 @@
+{
+  "id": "xyz.tijl.khatrupyramid",
+  "title": "Khatru Pyramid",
+  "author": "fiatjaf & github-tijlxyz",
+  "tagline": "Nostr relay with invite hierarchy",
+  "postInstallMessage": "file://POSTINSTALL.md",
+  "version": "0.0.3",
+  "healthCheckPath": "/",
+  "httpPort": 3334,
+  "website": "https://github.com/github-tijlxyz/khatru-pyramid",
+  "contactEmail": "contact@tijl.xyz",
+  "addons": {
+    "localstorage": {}
+  },
+  "tags": [ "nostr" ],
+  "mediaLinks": [],
+  "manifestVersion": 2
+}
+
